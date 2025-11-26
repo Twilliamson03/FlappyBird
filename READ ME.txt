@@ -1,0 +1,9 @@
+Hello there, Somehow you have come across my attempt at making flappy bird in C++. The code you are about to see will probably make
+you want to quit programming for life and I don't blame you. Its not amazing code and I used Google a LOT to help me, I have never used
+the UI library SFML before so it was a learning curve.
+
+To run this program you will need to download the file and run the .exe file I think, I'm not sure, honestly never intended it to be open
+to the public so idk. I Used SFML version 2.6.1 - Visual C++ 17 (2022) - 64-bit so you'll probably need that too. not sure if I included it
+or not in the git files 
+
+Anyways enjoy :)
