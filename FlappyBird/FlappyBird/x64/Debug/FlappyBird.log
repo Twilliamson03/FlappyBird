@@ -1,0 +1,13 @@
+﻿  Game.cpp
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(11,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(11,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(11,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(11,10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(17,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(18,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(70,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(70,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(71,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(71,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\Game.cpp(71,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  FlappyBird.vcxproj -> C:\Users\Thomas Williamson\OneDrive - Queen's University Belfast\Personal Projects\FlappyBird\FlappyBird\x64\Debug\FlappyBird.exe
